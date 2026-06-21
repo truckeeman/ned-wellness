@@ -1,0 +1,15 @@
+{
+  "name": "Ned's Wellness Tracker",
+  "short_name": "Ned Wellness",
+  "description": "Ned's 12-week fitness program and daily wellness log",
+  "start_url": "https://truckeeman.github.io/ned-wellness/",
+  "scope": "https://truckeeman.github.io/ned-wellness/",
+  "display": "standalone",
+  "background_color": "#F7F5F0",
+  "theme_color": "#4A7C6F",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "icon-512.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
